@@ -1,0 +1,13 @@
+ body{
+     background-color: aquamarine;
+ }
+ button{
+     background-color: rgb(49, 162, 69);
+     
+ }
+ #image{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 30px;
+ }

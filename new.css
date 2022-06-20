@@ -1,0 +1,30 @@
+body {
+    font-family: monospace;
+}
+
+ul {
+    font-family: helvetica;
+}
+li {
+    list-style: square;
+  }
+  
+  .list {
+    list-style: square;
+  }
+  
+  #msg {
+    font-family: monospace;
+  }
+  .light-theme {
+    color: #000000;
+    background:#a62493;
+  }
+  :root {
+    --green: #00FF00;
+    --white: #FFFFFF;
+    --black: #000000;
+  }
+  .dark-theme {
+    color: #000000;
+    background:#a63124;
